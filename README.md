@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Full-stack+JavaScript+developer;Node.js+%7C+React+%7C+Vue+%7C+TypeScript;Building+AI-powered+products;Based+in+Jaipur%2C+India" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://sagarjajoriya.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
 ---
 
 ### 🚀 About me
