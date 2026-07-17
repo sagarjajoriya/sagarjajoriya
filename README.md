@@ -21,7 +21,7 @@ I'm a JavaScript-first engineer who builds full-stack products end to end — fr
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,nextjs,nestjs,express,mongodb,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,nextjs,nuxtjs,nestjs,express,mysql,graphql,mongodb,postgres,docker,git" />
 </p>
 
 ---
