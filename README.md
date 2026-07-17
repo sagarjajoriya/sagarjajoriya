@@ -48,13 +48,3 @@ I'm a JavaScript-first engineer who builds full-stack products end to end — fr
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarjajoriya&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 📫 Let's connect
-
-Reach out if you're working on interesting AI tooling, dev platforms, or just want to talk architecture.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagarjajoriya&label=Profile+views&color=61DAFB&style=flat" alt="profile views" />
-</p>
