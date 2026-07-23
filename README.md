@@ -10,6 +10,7 @@
 
 I'm a JavaScript-first engineer who builds full-stack products end to end — from backend architecture to polished UI. Lately I've been deep in **AI-powered tooling**: RAG pipelines, voice-driven interviews, and workflow builders.
 
+- 🎮 Currently building a **browser-based gaming platform**
 - 🔭 Currently building **Knoten**, a lightweight visual workflow builder
 - 🧠 Exploring RAG, LLM orchestration, and real-time voice interfaces
 - 🏗️ Into system design — breaking monoliths into scalable microservices
